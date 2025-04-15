@@ -174,7 +174,8 @@ display(movie_name_input, recommendation_list)
 ├── ratings.csv
 ├── all_recommendations.csv
 ├── ml-25m.zip
-└── recommendation_system.ipynb
+└── movie_recommendations.ipynb
+└── saveAll.py
 
 ## 📜 License
 This project is for educational and research purposes only. The MovieLens dataset is licensed under the GroupLens Terms of Use.
